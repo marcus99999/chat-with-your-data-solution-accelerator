@@ -17,7 +17,7 @@ products:
 - azure-storage-accounts
 - azure-speech
 page_type: sample
-urlFragment: chat-with-your-data-solution-accelerator
+urlFragment: chat-with-your-data-solution-accelerators
 
 ---
 <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
